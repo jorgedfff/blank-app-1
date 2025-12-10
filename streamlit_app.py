@@ -19,7 +19,7 @@ st.markdown("""
 ✨ A cargo de **la Luli**, nuestra presentadora estrella, de **la Andrellita**, la hostess y coorganizadora y de **la Adriana**, la organizadora aunque ella diga que no es.
 
 ### **5:30 – 7:00 PM**
-🎉 *Juegos preparados*  
+🎉 **Juegos preparados**  
 
 
 ### **7:00 – 8:00 PM**
