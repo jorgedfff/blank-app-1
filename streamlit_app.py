@@ -28,7 +28,7 @@ El menú de gala: *dogos aguaje* porque somos finos pero con barrio.
 
 ### **8:00 PM en adelante**
 💃🕺 **Baile, canto y música**  
-Lo que pase después ya no es responsabilidad de la organización, nos deslindamos de cualquier.
+Lo que pase después ya no es responsabilidad de la organización, nos deslindamos de cualquier incidente.
 """)
 
 st.markdown("---")
