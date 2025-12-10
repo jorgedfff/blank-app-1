@@ -20,7 +20,7 @@ st.markdown("""
 
 ### **5:30 – 7:00 PM**
 🎉 **Juegos preparados**  
-
+SORPRESA 🤫
 
 ### **7:00 – 8:00 PM**
 🌭 **Cena**  
