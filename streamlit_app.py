@@ -16,7 +16,7 @@ st.markdown("""
 
 ### **5:00 – 5:30 PM**
 🥂 **Brindis e inauguración del evento**
-✨ A cargo de **la Luli**, nuestra presentadora, de **la Andrellita**, la hostess y coorganizadora y de **la Adriana**, la organizadora aunque ella diga que no es.
+✨ A cargo de **la Luli**, nuestra presentadora, de **la Andrellita**, la hostess/coorganizadora y de **la Adriana**, la organizadora aunque ella diga que no es.
 
 ### **5:30 – 7:00 PM**
 🎉 **Juegos preparados**  
