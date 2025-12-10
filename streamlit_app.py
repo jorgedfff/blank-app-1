@@ -12,15 +12,15 @@ st.header("🕒 Actividades del evento")
 
 st.markdown("""
 ### **4:00 – 5:00 PM**
-📺 *Veremos videos para calentar motores y reírnos un rato.*
+📺 *Veremos videos en familia reírnos un rato.*
 
 ### **5:00 – 5:30 PM**
 🥂 **Brindis e inauguración** del evento  
-✨ A cargo de **La Luli**, nuestra presentadora estrella.
+✨ A cargo de **la Luli**, nuestra presentadora estrella, de **la Andrellita**, la hostess y coorganizadora y de **la Adriana**, la organizadora aunque ella diga que no es.
 
 ### **5:30 – 7:00 PM**
 🎉 *Juegos preparados*  
-Competencias, risas y probablemente chismes.
+
 
 ### **7:00 – 8:00 PM**
 🌭 **Cena**  
